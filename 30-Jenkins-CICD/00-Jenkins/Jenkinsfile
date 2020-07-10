@@ -1,7 +1,7 @@
 node {
     
     stage('Git CheckOut Repo.') {
-    git 'https://github.com/amitvashisttech/terraform-socgen-29June2020.git'
+    git 'https://github.com/ranjitwoonna/terraform-socgen-29June2020.git'
     }
     
     
