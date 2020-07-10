@@ -2,7 +2,7 @@
     "builders": [
         {
             "type": "googlecompute",
-            "project_id": "gleaming-design-282503",
+            "project_id": "k8s-practise-278104",
             "account_file": "/root/.ssh/account.json",
             "zone": "us-west1-b",
             "source_image": "ubuntu-1604-xenial-v20170202",
